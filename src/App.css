@@ -1,0 +1,9 @@
+.App {
+  position: absolute;
+  width: 375px;
+  height: 100vh;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
